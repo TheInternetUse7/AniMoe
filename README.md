@@ -3,7 +3,7 @@
 <div style="text-align: center; margin-top: -30px"> <h1>AniMoe for AniList</h1>
  A Windows 10 & 11 Client for AniList. Track and Discover anime and manga with ease.
 
- [![WinUI3 Packaged MSIX App](https://github.com/CosmicPredator/AniMoe/actions/workflows/ci-packaged.yml/badge.svg)](https://github.com/CosmicPredator/AniMoe/actions/workflows/ci-packaged.yml)
+[![WinUI3 Packaged MSIX App](https://github.com/CosmicPredator/AniMoe/actions/workflows/ci-prod.yml/badge.svg)](https://github.com/CosmicPredator/AniMoe/actions/workflows/ci-prod.yml)
 
 <img src="https://i.imgur.com/rzotm7h.jpg" width="400">
 
